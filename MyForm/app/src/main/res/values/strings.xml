@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">My Form</string>
+    <string name="name">Name</string>
+    <string name="button_next">Go Next</string>
+    <string name="greeter">Greeter</string>
+    <string name="farewell">Farewell</string>
+</resources>
