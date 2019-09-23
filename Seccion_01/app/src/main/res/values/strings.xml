@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyForm</string>
+    <string name="name">Name</string>
+    <string name="switch1">Switch</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="hola_a_todos">Hola a todos</string>
+    <string name="go_next">Go Next</string>
+    <string name="button">Button</string>
+    <string name="call">call</string>
+</resources>
